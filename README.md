@@ -15,7 +15,7 @@
 | **Written On** | May 05, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/akash-pakhi/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Get License For Akash Pakhi](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/akash-pakhi/) |
+| **Get License** | [Secure Licensing Rights for Akash Pakhi](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/akash-pakhi/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `f89707f49095be991b680b584b1df31648e7f3b6c9fadf6438e2c1be0f6125c5` |
 | **Timestamp** | May 16, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
